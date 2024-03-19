@@ -1,3 +1,3 @@
 # OUE
-Aurel = "petit coquin"
+Aurel = "petit coquin d'amour"
 
